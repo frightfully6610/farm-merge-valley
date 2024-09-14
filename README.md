@@ -85,98 +85,36 @@
 | object name | code name | image |
 | --- | --- | --- |
 
-|  |  | ![bakery](https://github.com/user-attachments/assets/a5491934-7c04-422f-8123-df901af4e6e9)
- |
-|  |  | ![barista](https://github.com/user-attachments/assets/b3be8857-83ef-445d-abda-89dbd687e840)
- |
-|  |  | ![bbq](https://github.com/user-attachments/assets/45d74351-205c-41fb-8ad5-7272f3f27761)
- |
-|  |  | ![building_avocadofiesta](https://github.com/user-attachments/assets/a4e521f4-2fcd-479c-9079-724cda4b2dbf)
- |
-|  |  | ![building_trufflelicious](https://github.com/user-attachments/assets/e789a62b-1a67-45c2-8fbc-cc96bfc64231)
- |
-|  |  | ![dairy](https://github.com/user-attachments/assets/04e4e380-5777-4145-a472-8911d4c85e82)
- |
-|  |  | ![loom](https://github.com/user-attachments/assets/8ea4e179-9f52-40fd-9e13-d7853a9746f3)
- |
-|  |  | ![market](https://github.com/user-attachments/assets/c6e479a9-a583-43d0-9480-9ba0cf3ad425)
- |
-|  |  | ![museum](https://github.com/user-attachments/assets/df6e023d-0c9d-40d7-905b-73871373b5f3)
- |
-|  |  | ![sweets](https://github.com/user-attachments/assets/76d7d225-482d-420c-b5ab-edb90e9445c3)
- |
-|  |  | ![decorative_barn](https://github.com/user-attachments/assets/2cf3a590-15a9-442e-a768-71590e2808fe)
- |
-|  |  | ![decorative_birdshouse](https://github.com/user-attachments/assets/39544214-df55-46e5-ba06-766b8fea5477)
- |
-|  |  | ![decorative_chickencoop](https://github.com/user-attachments/assets/b053b093-8c77-414b-aff8-5b48a6f698a7)
- |
-|  |  | ![decorative_doghouse](https://github.com/user-attachments/assets/7ab6c1a4-0e58-4720-8cb5-4b33d5e39550)
- |
-|  |  | ![decorative_farmhouse](https://github.com/user-attachments/assets/b3842973-40b6-4d5d-99f8-a5205e2b1895)
- |
-|  |  | ![decorative_feedingtrough](https://github.com/user-attachments/assets/8c2b1512-0253-4462-adf7-d5ac1c61c2f1)
- |
-|  |  | ![decorative_flowerpots](https://github.com/user-attachments/assets/b3ec4a64-1274-41f9-a255-4e5f563ccdc2)
- |
-|  |  | ![decorative_fountain](https://github.com/user-attachments/assets/ce649b7c-0f1e-4b54-9425-927d06711dde)
- |
-|  |  | ![decorative_haywagon](https://github.com/user-attachments/assets/32cef2a7-bde6-43a9-9aa4-ec359bbc5c01)
- |
-|  |  | ![decorative_lamppost](https://github.com/user-attachments/assets/0e8dddb3-a03a-4944-aaaa-101716eda327)
- |
-|  |  | ![decorative_milktank](https://github.com/user-attachments/assets/c588e9ea-9db5-43f1-9466-cbcd955502e2)
- |
-|  |  | ![decorative_picknicktable](https://github.com/user-attachments/assets/bf55b85b-2cf2-44be-b953-878ccb687606)
- |
-|  |  | ![decorative_shed](https://github.com/user-attachments/assets/3c1efd42-6126-4aee-83d4-b4d7b31cd024)
- |
-|  |  | ![decorative_silo](https://github.com/user-attachments/assets/d7d79365-026e-47dc-915e-8a16185d1005)
- |
-|  |  | ![decorative_stoneflowerpot](https://github.com/user-attachments/assets/1cd9c0c1-bdea-4f79-b667-b53d41371336)
- |
-|  |  | ![decorative_toilet](https://github.com/user-attachments/assets/ea432bc1-bf2f-49ce-ad9f-1c11ce6788e1)
- |
-|  |  | ![decorative_watertower](https://github.com/user-attachments/assets/f20d400b-cab9-473f-80ac-43aabf8c1e3c)
- |
-|  |  | ![decorative_well](https://github.com/user-attachments/assets/730f68ff-0041-4b03-b777-e5609d5fcb44)
- |
-|  |  | ![decorative_windmill](https://github.com/user-attachments/assets/dff98741-40df-4496-aa9a-5a366237978d)
- |
-|  |  | ![trainstation](https://github.com/user-attachments/assets/3ceaf937-3b4c-4628-9a4b-46489245d335)
- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  |  | ![bakery](https://github.com/user-attachments/assets/a5491934-7c04-422f-8123-df901af4e6e9) |
+|  |  | ![barista](https://github.com/user-attachments/assets/b3be8857-83ef-445d-abda-89dbd687e840) |
+|  |  | ![bbq](https://github.com/user-attachments/assets/45d74351-205c-41fb-8ad5-7272f3f27761) |
+|  |  | ![building_avocadofiesta](https://github.com/user-attachments/assets/a4e521f4-2fcd-479c-9079-724cda4b2dbf) |
+|  |  | ![building_trufflelicious](https://github.com/user-attachments/assets/e789a62b-1a67-45c2-8fbc-cc96bfc64231) |
+|  |  | ![dairy](https://github.com/user-attachments/assets/04e4e380-5777-4145-a472-8911d4c85e82) |
+|  |  | ![loom](https://github.com/user-attachments/assets/8ea4e179-9f52-40fd-9e13-d7853a9746f3) |
+|  |  | ![market](https://github.com/user-attachments/assets/c6e479a9-a583-43d0-9480-9ba0cf3ad425) |
+|  |  | ![museum](https://github.com/user-attachments/assets/df6e023d-0c9d-40d7-905b-73871373b5f3) |
+|  |  | ![sweets](https://github.com/user-attachments/assets/76d7d225-482d-420c-b5ab-edb90e9445c3) |
+|  |  | ![decorative_barn](https://github.com/user-attachments/assets/2cf3a590-15a9-442e-a768-71590e2808fe) |
+|  |  | ![decorative_birdshouse](https://github.com/user-attachments/assets/39544214-df55-46e5-ba06-766b8fea5477) |
+|  |  | ![decorative_chickencoop](https://github.com/user-attachments/assets/b053b093-8c77-414b-aff8-5b48a6f698a7) |
+|  |  | ![decorative_doghouse](https://github.com/user-attachments/assets/7ab6c1a4-0e58-4720-8cb5-4b33d5e39550) |
+|  |  | ![decorative_farmhouse](https://github.com/user-attachments/assets/b3842973-40b6-4d5d-99f8-a5205e2b1895) |
+|  |  | ![decorative_feedingtrough](https://github.com/user-attachments/assets/8c2b1512-0253-4462-adf7-d5ac1c61c2f1) |
+|  |  | ![decorative_flowerpots](https://github.com/user-attachments/assets/b3ec4a64-1274-41f9-a255-4e5f563ccdc2) |
+|  |  | ![decorative_fountain](https://github.com/user-attachments/assets/ce649b7c-0f1e-4b54-9425-927d06711dde) |
+|  |  | ![decorative_haywagon](https://github.com/user-attachments/assets/32cef2a7-bde6-43a9-9aa4-ec359bbc5c01) |
+|  |  | ![decorative_lamppost](https://github.com/user-attachments/assets/0e8dddb3-a03a-4944-aaaa-101716eda327) |
+|  |  | ![decorative_milktank](https://github.com/user-attachments/assets/c588e9ea-9db5-43f1-9466-cbcd955502e2) |
+|  |  | ![decorative_picknicktable](https://github.com/user-attachments/assets/bf55b85b-2cf2-44be-b953-878ccb687606) |
+|  |  | ![decorative_shed](https://github.com/user-attachments/assets/3c1efd42-6126-4aee-83d4-b4d7b31cd024) |
+|  |  | ![decorative_silo](https://github.com/user-attachments/assets/d7d79365-026e-47dc-915e-8a16185d1005) |
+|  |  | ![decorative_stoneflowerpot](https://github.com/user-attachments/assets/1cd9c0c1-bdea-4f79-b667-b53d41371336) |
+|  |  | ![decorative_toilet](https://github.com/user-attachments/assets/ea432bc1-bf2f-49ce-ad9f-1c11ce6788e1) |
+|  |  | ![decorative_watertower](https://github.com/user-attachments/assets/f20d400b-cab9-473f-80ac-43aabf8c1e3c) |
+|  |  | ![decorative_well](https://github.com/user-attachments/assets/730f68ff-0041-4b03-b777-e5609d5fcb44) |
+|  |  | ![decorative_windmill](https://github.com/user-attachments/assets/dff98741-40df-4496-aa9a-5a366237978d) |
+|  |  | ![trainstation](https://github.com/user-attachments/assets/3ceaf937-3b4c-4628-9a4b-46489245d335) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
