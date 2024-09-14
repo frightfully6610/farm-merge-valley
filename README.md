@@ -1,5 +1,5 @@
 # farm-merge-valley
-<detalis>
+<details>
 <summary>objects</summary>
 | object name | code name | image |
 | --- | --- | --- |
@@ -7,4 +7,4 @@
 | --- | --- | --- |
 |  |  |  |
 |  |  |  |
-</detalis>
+</details>
