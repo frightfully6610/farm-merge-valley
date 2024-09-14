@@ -1,6 +1,6 @@
 # farm-merge-valley
 <details>
-<summary>objects</summary>
+<summary>Crops</summary>
   
 | object name | code name | image |
 | --- | --- | --- |
@@ -40,5 +40,198 @@
 |  | wheat_2 | ![wheat_2](https://github.com/user-attachments/assets/35e8a8db-febb-4485-8eff-a26d8c01b276) |
 |  | wheat_3 | ![wheat_3](https://github.com/user-attachments/assets/ee9f3ba2-1dc3-4cb9-a82d-72eb8dd1d442) |
 |  | wheat_4 | ![wheat_4](https://github.com/user-attachments/assets/eb210fb6-3863-4a16-9fde-1b89038920ac) |
+
+</details>
+
+<details>
+<summary>Animals</summary>
+
+| object name | code name | image |
+| --- | --- | --- |
+|  |  | ![chicken_1](https://github.com/user-attachments/assets/1c54ba44-9d52-4b77-aa5a-d9e367fe24df) |
+|  |  | ![chicken_2](https://github.com/user-attachments/assets/e61faaa2-f37b-46d3-b525-fedd353c4898) |
+|  |  | ![chicken_3](https://github.com/user-attachments/assets/367c1971-3462-4b71-8036-672fafc485a7) |
+|  |  | ![chicken_4](https://github.com/user-attachments/assets/ba959bab-81dc-4b0d-ba72-8c501ecb1deb) |
+|  |  | ![cow_1](https://github.com/user-attachments/assets/10f12713-e7b5-46ca-9b21-304f5bdeeb1a) |
+|  |  | ![cow_2](https://github.com/user-attachments/assets/f15ccc22-6bd5-4c49-a08e-27d9038e8b87) |
+|  |  | ![cow_3](https://github.com/user-attachments/assets/c0e1586c-29ab-4326-9f01-b40b7539fec3) |
+|  |  | ![cow_4](https://github.com/user-attachments/assets/0f0af0da-8d88-4f36-867d-5efbfd1d022e) |
+|  |  | ![deer_1](https://github.com/user-attachments/assets/027edd0c-d9ce-4930-a57a-801c6048a418) |
+|  |  | ![deer_2](https://github.com/user-attachments/assets/e66f44d6-15b6-4295-93ba-787e75298b5e) |
+|  |  | ![deer_3](https://github.com/user-attachments/assets/a93502a3-73f9-4488-ae1f-df9e73f26778) |
+|  |  | ![deer_4](https://github.com/user-attachments/assets/683bbbd8-eb61-4bcc-8402-7000e4d6ff15) |
+|  |  | ![goat_1](https://github.com/user-attachments/assets/5e9076eb-38fe-4305-91f2-d19692b2ed00) |
+|  |  | ![goat_2](https://github.com/user-attachments/assets/c723b5df-4941-4051-8cb5-4ffda095129c) |
+|  |  | ![goat_3](https://github.com/user-attachments/assets/c225a975-acc4-4525-b5ef-02420ae3913d) |
+|  |  | ![goat_4](https://github.com/user-attachments/assets/07ff5bed-1586-45a7-a82b-c7ca356e2750) |
+|  |  | ![pig_1](https://github.com/user-attachments/assets/54d3c27c-a818-48d3-a80f-553fa946fd28) |
+|  |  | ![pig_2](https://github.com/user-attachments/assets/fbce0efa-06cc-474d-92aa-0bc96a628a37) |
+|  |  | ![pig_3](https://github.com/user-attachments/assets/9ea652e9-5241-42ea-89d4-90d3134d5208) |
+|  |  | ![pig_4](https://github.com/user-attachments/assets/693f006f-01b8-4b96-81d4-e9d6954642ed) |
+|  |  | ![sheep_1](https://github.com/user-attachments/assets/051cf15b-756e-4a39-bb6a-7137dd3199e1) |
+|  |  | ![sheep_2](https://github.com/user-attachments/assets/796da01c-49c4-48fe-a12f-2c8182d9a796) |
+|  |  | ![sheep_3](https://github.com/user-attachments/assets/a2a12dd5-fad2-4527-8546-d5358d4f743d) |
+|  |  | ![sheep_4](https://github.com/user-attachments/assets/ac4df414-0b00-48c6-b324-6e9c008110fa) |
+|  |  | ![trufflepig_1](https://github.com/user-attachments/assets/1d1079d9-9e0a-499d-be1e-ce9b365e2dd2) |
+|  |  | ![trufflepig_2](https://github.com/user-attachments/assets/49d245e5-466b-44da-8be8-03963b7ac60c) |
+|  |  | ![trufflepig_3](https://github.com/user-attachments/assets/ed40c3fa-b8c6-44e5-a856-1aa222938a87) |
+|  |  | ![trufflepig_4](https://github.com/user-attachments/assets/d252de19-3769-4c93-8149-f2ae2c8b5103) |
+
+</details>
+
+<details>
+<summary>Decor</summary>
+
+| object name | code name | image |
+| --- | --- | --- |
+
+|  |  | ![bakery](https://github.com/user-attachments/assets/a5491934-7c04-422f-8123-df901af4e6e9)
+ |
+|  |  | ![barista](https://github.com/user-attachments/assets/b3be8857-83ef-445d-abda-89dbd687e840)
+ |
+|  |  | ![bbq](https://github.com/user-attachments/assets/45d74351-205c-41fb-8ad5-7272f3f27761)
+ |
+|  |  | ![building_avocadofiesta](https://github.com/user-attachments/assets/a4e521f4-2fcd-479c-9079-724cda4b2dbf)
+ |
+|  |  | ![building_trufflelicious](https://github.com/user-attachments/assets/e789a62b-1a67-45c2-8fbc-cc96bfc64231)
+ |
+|  |  | ![dairy](https://github.com/user-attachments/assets/04e4e380-5777-4145-a472-8911d4c85e82)
+ |
+|  |  | ![loom](https://github.com/user-attachments/assets/8ea4e179-9f52-40fd-9e13-d7853a9746f3)
+ |
+|  |  | ![market](https://github.com/user-attachments/assets/c6e479a9-a583-43d0-9480-9ba0cf3ad425)
+ |
+|  |  | ![museum](https://github.com/user-attachments/assets/df6e023d-0c9d-40d7-905b-73871373b5f3)
+ |
+|  |  | ![sweets](https://github.com/user-attachments/assets/76d7d225-482d-420c-b5ab-edb90e9445c3)
+ |
+|  |  | ![decorative_barn](https://github.com/user-attachments/assets/2cf3a590-15a9-442e-a768-71590e2808fe)
+ |
+|  |  | ![decorative_birdshouse](https://github.com/user-attachments/assets/39544214-df55-46e5-ba06-766b8fea5477)
+ |
+|  |  | ![decorative_chickencoop](https://github.com/user-attachments/assets/b053b093-8c77-414b-aff8-5b48a6f698a7)
+ |
+|  |  | ![decorative_doghouse](https://github.com/user-attachments/assets/7ab6c1a4-0e58-4720-8cb5-4b33d5e39550)
+ |
+|  |  | ![decorative_farmhouse](https://github.com/user-attachments/assets/b3842973-40b6-4d5d-99f8-a5205e2b1895)
+ |
+|  |  | ![decorative_feedingtrough](https://github.com/user-attachments/assets/8c2b1512-0253-4462-adf7-d5ac1c61c2f1)
+ |
+|  |  | ![decorative_flowerpots](https://github.com/user-attachments/assets/b3ec4a64-1274-41f9-a255-4e5f563ccdc2)
+ |
+|  |  | ![decorative_fountain](https://github.com/user-attachments/assets/ce649b7c-0f1e-4b54-9425-927d06711dde)
+ |
+|  |  | ![decorative_haywagon](https://github.com/user-attachments/assets/32cef2a7-bde6-43a9-9aa4-ec359bbc5c01)
+ |
+|  |  | ![decorative_lamppost](https://github.com/user-attachments/assets/0e8dddb3-a03a-4944-aaaa-101716eda327)
+ |
+|  |  | ![decorative_milktank](https://github.com/user-attachments/assets/c588e9ea-9db5-43f1-9466-cbcd955502e2)
+ |
+|  |  | ![decorative_picknicktable](https://github.com/user-attachments/assets/bf55b85b-2cf2-44be-b953-878ccb687606)
+ |
+|  |  | ![decorative_shed](https://github.com/user-attachments/assets/3c1efd42-6126-4aee-83d4-b4d7b31cd024)
+ |
+|  |  | ![decorative_silo](https://github.com/user-attachments/assets/d7d79365-026e-47dc-915e-8a16185d1005)
+ |
+|  |  | ![decorative_stoneflowerpot](https://github.com/user-attachments/assets/1cd9c0c1-bdea-4f79-b667-b53d41371336)
+ |
+|  |  | ![decorative_toilet](https://github.com/user-attachments/assets/ea432bc1-bf2f-49ce-ad9f-1c11ce6788e1)
+ |
+|  |  | ![decorative_watertower](https://github.com/user-attachments/assets/f20d400b-cab9-473f-80ac-43aabf8c1e3c)
+ |
+|  |  | ![decorative_well](https://github.com/user-attachments/assets/730f68ff-0041-4b03-b777-e5609d5fcb44)
+ |
+|  |  | ![decorative_windmill](https://github.com/user-attachments/assets/dff98741-40df-4496-aa9a-5a366237978d)
+ |
+|  |  | ![trainstation](https://github.com/user-attachments/assets/3ceaf937-3b4c-4628-9a4b-46489245d335)
+ |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+</details>
+
+<details>
+<summary>decorative_halloween</summary>
+
+| object name | code name | image |
+| --- | --- | --- |
+
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+</details>
+
+<details>
+<summary>decorative_christmas</summary>
+
+| object name | code name | image |
+| --- | --- | --- |
+
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+</details>
+
+<details>
+<summary>Other</summary>
+
+| object name | code name | image |
+| --- | --- | --- |
+
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 </details>
