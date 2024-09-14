@@ -84,7 +84,6 @@
 
 | object name | code name | image |
 | --- | --- | --- |
-
 |  |  | ![bakery](https://github.com/user-attachments/assets/a5491934-7c04-422f-8123-df901af4e6e9) |
 |  |  | ![barista](https://github.com/user-attachments/assets/b3be8857-83ef-445d-abda-89dbd687e840) |
 |  |  | ![bbq](https://github.com/user-attachments/assets/45d74351-205c-41fb-8ad5-7272f3f27761) |
