@@ -5,7 +5,7 @@
 | object name | code name | image |
 | --- | --- | --- |
 |  | avocado_1 | ![avocado_1](image/crops/avocado_1.png) |
-|  | avocado_2 | ![avocado_2](image/crops/avocado_2.png8) |
+|  | avocado_2 | ![avocado_2](image/crops/avocado_2.png) |
 |  | avocado_3 | ![avocado_3](image/crops/avocado_3.png) |
 |  | avocado_4 | ![avocado_4](image/crops/avocado_4.png) |
 |  | carrot_1 | ![carrot_1](image/crops/carrot_1.png) |
