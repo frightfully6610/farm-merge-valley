@@ -117,7 +117,31 @@
 |  | delivery_cargo | ![delivery_cargo](image/decorative/delivery_cargo.png) |
 |  | delivery_truck | ![delivery_truck](image/decorative/delivery_truck.png) |
 |  | traintrack_stop | ![traintrack_stop](image/decorative/traintrack_stop.png) |
-
+|  | greenhouse_1 | ![greenhouse_1](image/decorative/greenhouse_1.png) |
+|  | greenhouse_2 | ![greenhouse_2](image/decorative/greenhouse_2.png) |
+|  | greenhouse_3 | ![greenhouse_3](image/decorative/greenhouse_3.png) |
+|  | greenhouse_4 | ![greenhouse_4](image/decorative/greenhouse_4.png) |
+|  | greenhouse_5 | ![greenhouse_5](image/decorative/greenhouse_5.png) |
+|  | greenhouse_6 | ![greenhouse_6](image/decorative/greenhouse_6.png) |
+|  | greenhouse_7 | ![greenhouse_7](image/decorative/greenhouse_7.png) |
+|  | greenhouse_8 | ![greenhouse_8](image/decorative/greenhouse_8.png) |
+|  | greenhouse_9 | ![greenhouse_9](image/decorative/greenhouse_9.png) |
+|  | greenhouse_10 | ![greenhouse_10](image/decorative/greenhouse_10.png) |
+|  | greenhouse_11 | ![greenhouse_11](image/decorative/greenhouse_11.png) |
+|  | greenhouse | ![greenhouse](image/decorative/greenhouse.png) |
+|  | flower_1 | ![flower_1](image/decorative/flower_1.png) |
+|  | flower_2 | ![flower_2](image/decorative/flower_2.png) |
+|  | flower_3 | ![flower_3](image/decorative/flower_3.png) |
+|  | flower_4 | ![flower_4](image/decorative/flower_4.png) |
+|  | flower_5 | ![flower_5](image/decorative/flower_5.png) |
+|  | flower_6 | ![flower_6](image/decorative/flower_6.png) |
+|  | flower_7 | ![flower_7](image/decorative/flower_7.png) |
+|  | flower_8 | ![flower_8](image/decorative/flower_8.png) |
+|  | flower_9 | ![flower_9](image/decorative/flower_9.png) |
+|  | flower_10 | ![flower_10](image/decorative/flower_10.png) |
+|  | sapling_1 | ![sapling_1](image/decorative/sapling_1.png) |
+|  | sapling_2 | ![sapling_2](image/decorative/sapling_2.png) |
+|  | sapling_3 | ![sapling_3](image/decorative/sapling_3.png) |
 
 </details>
 
