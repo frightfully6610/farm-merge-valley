@@ -130,7 +130,7 @@
 
 | object name | code name | image |
 | --- | --- | --- |
-|  |  | ![decorative_halloween_blackcat]frightfully6610/farm-merge-valley/image/decorative_halloween/decorative_halloween_blackcat.png |
+|  |  | ![decorative_halloween_blackcat]https://github.com/frightfully6610/farm-merge-valley/image/decorative_halloween/decorative_halloween_blackcat.png |
 |  |  |  |
 |  |  |  |
 |  |  |  |
