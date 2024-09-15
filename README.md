@@ -114,7 +114,7 @@
 |  |  | ![decorative_well](https://github.com/user-attachments/assets/730f68ff-0041-4b03-b777-e5609d5fcb44) |
 |  |  | ![decorative_windmill](https://github.com/user-attachments/assets/dff98741-40df-4496-aa9a-5a366237978d) |
 |  |  | ![trainstation](https://github.com/user-attachments/assets/3ceaf937-3b4c-4628-9a4b-46489245d335) |
-|  |  |  |
+|  |  | !image/decorative_halloween/decorative_halloween_blackcat.png |
 |  |  |  |
 |  |  |  |
 |  |  |  |
