@@ -269,9 +269,9 @@
 |  | toolbox_small | ![toolbox_small](image/other/toolbox_small.png) |
 |  | toolbox_medium | ![toolbox_medium](image/other/toolbox_medium.png) |
 |  | toolbox_large | ![toolbox_large](image/other/toolbox_large.png) |
-|  | reward_key_bronze | ![reward_key_bronze](image/other/reward_key_bronze.png) |
-|  | reward_key_silver | ![reward_key_silver](image/other/reward_key_silver.png) |
-|  | reward_key_gold | ![reward_key_gold](image/other/reward_key_gold.png) |
+|  | reward_crate_key_bronze | ![reward_key_bronze](image/other/reward_key_bronze.png) |
+|  | reward_crate_key_silver | ![reward_key_silver](image/other/reward_key_silver.png) |
+|  | reward_crate_key_gold | ![reward_key_gold](image/other/reward_key_gold.png) |
 |  | reward_crate_chest_bronze | ![reward_crate_chest_bronze](image/other/reward_crate_chest_bronze.png) |
 |  | reward_crate_chest_silver | ![reward_crate_chest_silver](image/other/reward_crate_chest_silver.png) |
 |  | reward_crate_chest_gold | ![reward_crate_chest_gold](image/other/reward_crate_chest_gold.png) |
